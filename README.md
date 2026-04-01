@@ -80,16 +80,6 @@ Each slide's `tissue_positions_list.csv` is split into three donor-specific posi
 
 ---
 
-## Notes
-
-- Each Visium slide captures three individual *Ciona* brains simultaneously. Donor demultiplexing relies on the spatial position of tissue sections along the slide x-axis, not on barcode-based demultiplexing.
-- Gene identifiers use the KH2013 nomenclature (e.g., `KH2013:KH.C1.215`). The human homolog mapping table (`ciona_human_homo.tsv`) must be generated separately prior to running Step 2.
-- The GO annotation (`GO_Cirobu_Aniseedv2019.gaf`) is specific to *Ciona robusta* and is available from the ANISEED database.
-- Script `3_Go.r` contains a minor variable name inconsistency on line 63 (`p5` should be `p1`) that will cause an error if `p5` is not defined in the session. Rename accordingly before running.
-- The XFuse commands in `Xfuse_split_sildes.r` reference absolute paths on a specific server (`/home/xzeng/...`). Update these paths to match your environment.
-
----
-
 ## Citation
 
 > [Authors]. *Spatial transcriptomic landscape of the adult brain in Ciona intestinalis*. [Journal], [Year]. [DOI]
