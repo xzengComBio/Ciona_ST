@@ -82,4 +82,4 @@ Each slide's `tissue_positions_list.csv` is split into three donor-specific posi
 
 ## Citation
 
-> [Authors]. *Spatial transcriptomic landscape of the adult brain in Ciona intestinalis*. [Journal], [Year]. [DOI]
+> Zeng X, Gyoja F, Maruo A, Okawa N, Mizutani K, Suzuki Y, Nakai K, Kusakabe TG. Spatial transcriptomic landscape of the Ciona adult brain: functional zonalisation and cellular composition in a sessile chordate brain and a novel insight into neural gland function. Manuscript in preparation.
