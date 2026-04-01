@@ -4,8 +4,6 @@
 
 This repository contains the analysis code for a 10x Visium spatial transcriptomics study of the adult *Ciona intestinalis* (ascidian) brain. The goal is to map the spatial organization of transcriptionally distinct cell populations in the neural complex—a compact brain region comprising the cerebral ganglion, neural gland, ciliated funnel, and associated structures.
 
-Four Visium capture areas were used, each containing sections from three individual animals placed side by side on the same slide (12 biological replicates total). The pipeline covers spot-level quality control, donor demultiplexing, cross-sample integration, unsupervised clustering, cell type annotation, Gene Ontology enrichment, and preparation of data for XFuse-based super-resolution reconstruction.
-
 ---
 
 ## Data
