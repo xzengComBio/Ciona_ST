@@ -8,7 +8,7 @@ This repository contains the analysis code for a 10x Visium spatial transcriptom
 
 ## Data
 
-The processed datasets used in this study can be downloaded from Figshare: <LINK_HERE>.
+The processed datasets used in this study can be downloaded from Figshare: <https://doi.org/10.6084/m9.figshare.31915545>.
   
 ### Input
 
